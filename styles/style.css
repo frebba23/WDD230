@@ -1,0 +1,35 @@
+port url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|Lato');
+
+main {
+    text-align: center;
+    background-color: bisque;
+}
+
+.list {
+    display: flex;
+    justify-content: left;
+    width: 100%;
+}
+
+h1, ul, p {
+    font: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+img {
+  width: 100px;
+  height: 150px;
+  background-color: aqua;
+  padding: 15px 1200px 15px 5px;
+  justify-content: left;
+}
+
+footer {
+    background-color: aqua;
+    padding: 25px 50px;
+    margin-top: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
