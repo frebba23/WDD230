@@ -31,9 +31,20 @@ header, footer {
     background-color: aqua;
     color: black;
     border-radius: 10px;
-    height: 100px;
     background-color: rgb(131, 145, 187);
-    color: turquoise;
+    
+}
+
+header {
+    height: 100px;
+    color: black;
+}
+
+footer {
+    height: 50px;
+    color: black;
+    font-family: 'Poppins','Source Sans Pro', 'sans-seri';
+    font-size: 1.5rem;
 }
 
 h1 {
