@@ -6,4 +6,9 @@
     .grid-item3 {
         grid-column: span 2;
     }
+
+    footer {
+        font-size: 0.70rem;
+    }
+
 }
