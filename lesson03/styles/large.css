@@ -1,13 +1,7 @@
 @media (min-width: 62em) {
 
-    body{
-     font-size: 1.4em;
-    }
-    img {
-     width: 20%;
-   }
-   
-   
-   
-   
-   }
+nav ul li a {
+  padding: .5rem 1rem;
+}
+
+}
